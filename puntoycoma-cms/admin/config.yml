@@ -2,6 +2,7 @@ backend:
   name: github
   repo: NetoReyes/puntoycoma
   branch: master
+  auth_type: pkce
 
 media_folder: "public/images"
 public_folder: "/images"
